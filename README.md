@@ -4,16 +4,7 @@ Automates the extraction of currently running paid advertisements displayed on t
 
 Tags: Node.js, TypeScript, Electron, Vite, Web Scraping, Digital Marketing
 
-
-## Table of Contents
-- [Google Ads Scraper](#google-ads-scraper)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Features](#features)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Author](#author)
+![Demo of Google Ads Scraper](./repo%20resource/GoogleAdsScraperApplication-ezgif.com-video-to-gif-converter.gif)
 
 ## Installation
 1. Clone the repository:
@@ -35,4 +26,4 @@ Tags: Node.js, TypeScript, Electron, Vite, Web Scraping, Digital Marketing
     ```
 and you will see something like this.
 
-![Demo of Google Ads Scraper](./repo%20resource/GoogleAdsScraperApplication-ezgif.com-video-to-gif-converter.gif)
+
