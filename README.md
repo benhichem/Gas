@@ -33,5 +33,6 @@ Tags: Node.js, TypeScript, Electron, Vite, Web Scraping, Digital Marketing
     ```bas
     npm run start
     ```
-and you will see something like this 
+and you will see something like this.
+
 ![Demo of Google Ads Scraper](./repo%20resource/GoogleAdsScraperApplication-ezgif.com-video-to-gif-converter.gif)
